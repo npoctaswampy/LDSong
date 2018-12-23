@@ -1,0 +1,44 @@
+[0] Peeters, G., Giordano, B. L., Susini, P., Misdariis, N., McAdams, S., (2011).
+       “The Timbre Toolbox: Extracting audio descriptors from musical signals,”
+       J. Acoust. Soc. Am.130, 2902–2916.
+
+[1] G. Tzanetakis and P. Cook, “Musical genre classification of
+       audio signals,” IEEE Transactions on Speech and Audio Pro-
+       cessing, vol. 10, No. 5, July 2002.
+
+[2] G. Widmer, S. Dixon, P. Knees, E. Pampalk, and T. Pohle, “From sound
+       to sense via feature extraction and machine learning: Deriving high-
+       level descriptors for characterising music,” in Sound to Sense, Sense 
+       to Sound—A State of the Art in Sound and Music Computing, P. Polotti
+       and D. Rocchesso, Eds.    Berlin, Germany: Logos Verlag, 2007.
+
+[3] C. Laurier. Automatic  Classification  of  Musical  Mood  by  Content-
+       Based Analysis. PhD thesis, UPF, Barcelona, Spain, 2011.
+
+[4] G. Peeters. A large set of audio features for sound description (similarity
+       and classification) in the CUIDADO project. CUIDADO Project Report, 2004.
+       Available online: http://recherche.ircam.fr/equipes/analyse-synthese/peeters/ARTICLES/.
+
+[5] J.J. Burred and A. Lerch, “A hierarchical approach to automatic musical genre classification,”
+       in Proc. 6th Int. Conf. Digital Audio Effects (DAFx), London, UK, 2003
+
+[6] Bogdanov, D., Wack, N., G ́omez, E., Gulati, S., Herrera, P., Mayor, O., Roma, G., Salamon, J., Zapata, J., and
+       Serra, X. (2013). Essentia: An audio analysis library for music information retrieval. In Proceedings of 14th
+       International Society for Music Information Retrieval Conference (ISMIR).
+
+[7] C. H. L. Costa, J. D. Valle Jr, and A. L. Koerich,  “Automatic classification of audio data,”  in
+       IEEE  International  Conference  on Systems, Man, and Cybernetics, 2004, pp. 562–567.
+
+[8] T. Tolonen and M. Karjalainen, “A computationally efficient multipitch analysis model,” IEEE Trans. 
+       Speech Audio Processing, vol. 8, pp. 708–716, Nov. 2000.
+
+[9] B. Logan, “Mel frequency cepstral coefficients for music modeling,” in Proc. Int. Symp. Music Information 
+       Retrieval (ISMIR), 2000.
+
+[10] J. Foote and M. Cooper, “Media segmentation using self-similarity decomposition,” in Proc. SPIE Storage 
+	and Retrieval for Multimedia Databases, vol. 5021, J. 2003.
+
+[11] G. Tzanetakis and P. Cook, “Multifeature audio segmentation for browsing and annotation,” in Proc. Workshop 
+        Applications of Signal Processing to Audio and Acoustics (WASPAA), New Paltz, NY, 1999.
+
+
